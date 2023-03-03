@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+/mvnw
+/mvnw.cmd
+/.mvn/
+/logs/
+/localstack/volume/cache/server.test.pem.crt
+/localstack/volume/logs/localstack_infra.err
+/localstack/volume/logs/localstack_infra.log
+/localstack/volume/cache/machine.json
+/localstack/volume/cache/server.test.pem
+/localstack/volume/cache/server.test.pem.key
+/localstack/volume/cache/service-catalog-1_4_1_dev-1_29_82.pickle
